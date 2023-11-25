@@ -1,0 +1,3 @@
+-inurl:htm -inurl:html intitle:"index of" php " web "
+
+-inurl:htm -inurl:html intitle:"index of" c++" web "

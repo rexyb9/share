@@ -1,0 +1,15 @@
+button {
+    background-color: crimson;
+    color: #eaeaea;
+    width: 80px;
+    height: 180px;
+    border: none;
+    outline: none;
+    margin: 3px;
+    cursor: pointer;
+}
+
+button {
+    background-color: #f20202;
+    transition: .3s all ease-in-out;
+}
